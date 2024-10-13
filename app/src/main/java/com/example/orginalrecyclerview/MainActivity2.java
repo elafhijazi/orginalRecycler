@@ -11,7 +11,7 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
-public class MainActivity2 extends AppCompatActivity {
+public class     MainActivity2 extends AppCompatActivity {
 private ImageView img;
 private TextView txt;
     @Override
